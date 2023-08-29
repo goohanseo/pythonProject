@@ -7,10 +7,9 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
         </processorPath>
-        <module name="DevTalk-BE.dtk-item-api.main" />
-        <module name="DevTalk-BE.dtk-payment-api.main" />
         <module name="DevTalk-BE.dtk-gateway.main" />
         <module name="DevTalk-BE.dtk-board-api.main" />
+        <module name="DevTalk-BE.dtk-item-api.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -27,9 +26,10 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mysema.commons/mysema-commons-lang/0.2.4/d09c8489d54251a6c22fbce804bdd4a070557317/mysema-commons-lang-0.2.4.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/ecj/3.26.0/4837be609a3368a0f7e7cf0dc1bdbc7fe94993de/ecj-3.26.0.jar" />
         </processorPath>
+        <module name="DevTalk-BE.dtk-member-api.main" />
+        <module name="DevTalk-BE.dtk-payment-api.main" />
         <module name="DevTalk-BE.dtk-product-api.main" />
         <module name="DevTalk-BE.dtk-matching-api.main" />
-        <module name="DevTalk-BE.dtk-member-api.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
